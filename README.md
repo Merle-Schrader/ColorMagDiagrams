@@ -25,7 +25,7 @@ and developed from compilations by:
 
 ---
 
-### 🧩 Custom Data Integration (`_customValues.ipynb`)
+### Custom Data Integration (`_customValues.ipynb`)
 
 The `_customValues` file enables users to overlay their own data on the interactive CMD plot. There are two supported modes:
 
