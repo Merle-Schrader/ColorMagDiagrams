@@ -1,0 +1,38 @@
+# --- Custom PCA Matplotlib Style ---
+
+# Make outline of plots thiccer
+axes.linewidth: 1.7
+
+# Minor ticks enabled
+xtick.minor.visible: True
+ytick.minor.visible: True
+
+# Tick direction
+xtick.direction: in
+ytick.direction: in
+
+# Tick size
+xtick.major.size: 6
+xtick.minor.size: 3
+ytick.major.size: 6
+ytick.minor.size: 3
+
+# Tick width
+xtick.major.width: 1
+xtick.minor.width: 0.8
+ytick.major.width: 1
+ytick.minor.width: 0.8
+
+# Font settings (optional)
+font.size: 12
+axes.titlesize: 14
+axes.labelsize: 12
+legend.fontsize: 10
+
+# Line and marker
+lines.linewidth: 1.5
+lines.markersize: 6
+
+# Use LaTeX-like rendering
+text.usetex: False
+font.family: serif
